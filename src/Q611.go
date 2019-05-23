@@ -1,13 +1,6 @@
-package main
+package src
 
-import (
-	"fmt"
-	"sort"
-)
-
-func main()  {
-	fmt.Print(triangleNumber([]int{2,2,3,4}))
-}
+import "sort"
 
 func triangleNumber(nums []int) int {
 	count:=0

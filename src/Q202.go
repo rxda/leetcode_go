@@ -1,13 +1,10 @@
-package main
+package src
 
 import (
 	"fmt"
 	"strconv"
 )
 
-func main() {
-	fmt.Println(isHappy(19))
-}
 
 func isHappy(n int) bool {
 	has := make(map[int]bool)

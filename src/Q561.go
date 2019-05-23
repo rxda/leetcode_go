@@ -1,14 +1,11 @@
-package main
+package src
 
 import (
 	"fmt"
 	"sort"
 )
 
-func main() {
-	a :=[]int{1,4,3,2}
-	fmt.Println(arrayPairSum(a))
-}
+
 
 func arrayPairSum(nums []int) int {
 	sort.Ints(nums)

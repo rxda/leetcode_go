@@ -1,13 +1,6 @@
-package main
+package src
 
-import (
-	"fmt"
-)
 
-func main() {
-	input := []int{3, 1, 2, 4,1,54,6,7,4,2,4,7,8,23,4,7}
-	fmt.Println(sortArrayByParity(input))
-}
 
 func sortArrayByParity(A []int) []int {
 	count := len(A)

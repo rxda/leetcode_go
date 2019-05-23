@@ -1,13 +1,11 @@
-package main
+package src
 
 import (
 	"fmt"
 	"regexp"
 )
 
-func main(){
-	decodeString("")
-}
+
 
 func decodeString(s string)  {
 	reg, _ := regexp.Compile(`[a-z]*(\d\[[a-z]+])+[a-z]*`)

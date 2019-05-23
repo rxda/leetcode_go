@@ -1,7 +1,6 @@
-package main
+package src
 
 import (
-	"fmt"
 	"sort"
 )
 
@@ -15,7 +14,4 @@ func smallestRangeI(A []int, K int) int {
 	}
 }
 
-func main() {
-	A := []int{0, 10}
-	fmt.Println(smallestRangeI(A, 2))
-}
+

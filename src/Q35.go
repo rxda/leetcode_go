@@ -1,11 +1,7 @@
-package main
+package src
 
 import "fmt"
 
-func main() {
-	a :=searchInsert([]int{1,3,4,6},5)
-	fmt.Println(a)
-}
 
 func searchInsert(nums []int, target int) int {
 	if nums == nil {

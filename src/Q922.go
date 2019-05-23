@@ -1,8 +1,5 @@
-package main
+package src
 
-func main() {
-	
-}
 
 func sortArrayByParityII(A []int) []int {
 	result :=make([]int,len(A))

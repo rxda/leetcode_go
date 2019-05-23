@@ -1,12 +1,6 @@
-package main
+package src
 
-import (
-	"fmt"
-)
 
-func main() {
-	fmt.Println(diStringMatch("IDID"))
-}
 
 func diStringMatch(S string) []int {
 	length := len(S)
