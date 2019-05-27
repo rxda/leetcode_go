@@ -1,7 +1,5 @@
 package src
 
-import "fmt"
-
 
 type MinStack struct {
 	S []int

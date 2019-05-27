@@ -1,6 +1,5 @@
 package src
 
-import "fmt"
 
 
 func searchInsert(nums []int, target int) int {
