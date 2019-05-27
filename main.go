@@ -1,12 +1,9 @@
 package main
 
-import (
-	"github.com/golang/xerrors"
-	"time"
-)
-
-
 func main() {
-	time.Sleep(time.Seconds)
+	a := make(map[int][2]int)
+	for i:=0;i<100;i++{
+		a[i] =[2]int{i,i}
+	}
 
 }
