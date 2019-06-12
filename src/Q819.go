@@ -1,10 +1,16 @@
 package src
 
+<<<<<<< HEAD
 import (
 	"strings"
 )
 
 func MostCommonWord(paragraph string, banned []string) string {
+=======
+import "strings"
+
+func mostCommonWord(paragraph string, banned []string) string {
+>>>>>>> 3302af24230eb8cd38a0443abbcf06003f17fdaf
 	bytes := []byte(strings.ToLower(paragraph))
 	var temp []byte
 	var words []string
@@ -44,4 +50,8 @@ func MostCommonWord(paragraph string, banned []string) string {
 		}
 	}
 	return res
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 3302af24230eb8cd38a0443abbcf06003f17fdaf
