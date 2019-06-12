@@ -18,10 +18,10 @@ func IsPalindrome(x int) bool {
 		return false
 	}
 
-	revertedNumber := 0;
+	revertedNumber := 0
 	for x > revertedNumber {
-		revertedNumber = revertedNumber * 10 + x % 10;
-		x /= 10;
+		revertedNumber = revertedNumber * 10 + x % 10
+		x /= 10
 	}
 
 	return x == revertedNumber || x == revertedNumber/10

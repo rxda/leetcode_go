@@ -10,7 +10,7 @@ func numPairsDivisibleBy60(time []int) int {
 			res[remainder]=1
 		}
 	}
-	count :=0;
+	count :=0
 	for k,v := range res{
 		if k>30 {
 			continue

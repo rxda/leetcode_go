@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	a:=src.MostCommonWord("bob", []string{})
+	a:=src.ToGoatLatin("I speak Goat Latin")
 	fmt.Println(a)
 }

@@ -7,7 +7,7 @@ func DetectCapitalUse(word string) bool {
 	if length ==1 {
 		return true
 	}
-	upperSum := 0;
+	upperSum := 0
 	for i := 1; i < length; i++ {
 		if runes[i] >= 'A' && runes[i] <= 'Z' {
 			upperSum++
