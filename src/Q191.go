@@ -8,3 +8,15 @@ func hammingWeight(num uint32) int {
 	}
 	return result
 }
+
+func hammingWeight2(num uint32) int {
+	var a uint32 = 1
+	sum :=0
+	for i:=0;i<32;i++{
+		if a&num !=0{
+			sum++
+		}
+		a <<= 1
+	}
+	return sum
+}
