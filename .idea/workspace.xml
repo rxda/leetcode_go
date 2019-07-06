@@ -1,33 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ece6d256-a974-4345-999c-5adb7a4d71db" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/src/Q191.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q345.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q83.go" afterDir="false" />
+    <list default="true" id="57d1854a-159c-456f-a4a3-02ef837f8bb0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode_go.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1017.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q151.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q152.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q172.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q205.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q380.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q432_not_complete.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q155.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q155.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q202.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q202.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q35.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q35.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q561.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q561.go" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/src/Q409.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
->>>>>>> 0c41e0c140723188c2dbfc6665527a653642a41b
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/leetcode$TestPeakIndexInMountainArray_in_leetcode_src.out" NAME="TestPeakIndexInMountainArray in leetcode/src Coverage Results" MODIFIED="1554208820363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-  </component>
-  <component name="CoverageViewManager">
-    <option name="myElementSize" value="261" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -45,109 +41,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Q83.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="21" selection-end-column="16" />
-=======
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q830.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
->>>>>>> 0c41e0c140723188c2dbfc6665527a653642a41b
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/src/Q83_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-=======
-        <entry file="file://$PROJECT_DIR$/src/Q231.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
->>>>>>> 0c41e0c140723188c2dbfc6665527a653642a41b
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/go.mod">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-=======
-        <entry file="file://$PROJECT_DIR$/src/Q198.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="25" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="25" />
->>>>>>> 0c41e0c140723188c2dbfc6665527a653642a41b
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q191_test.go">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-=======
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Q409.go">
+        <entry file="file://$PROJECT_DIR$/src/Q152.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="26" selection-end-column="1" />
+              <caret line="2" selection-start-line="2" selection-end-line="30" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q198_test.go">
+        <entry file="file://$PROJECT_DIR$/src/Q1017.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            <state relative-caret-position="51">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Q2.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="42" column="1" lean-forward="true" selection-start-line="9" selection-end-line="42" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q231_test.go">
+        <entry file="file://$PROJECT_DIR$/src/Q2_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="20" selection-end-column="10" />
+            <state relative-caret-position="1071">
+              <caret line="93" column="12" lean-forward="true" selection-start-line="56" selection-start-column="10" selection-end-line="93" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q830_test.go">
+        <entry file="file://D:/Go/src/testing/testing.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+            <state relative-caret-position="121">
+              <caret line="802" selection-start-line="802" selection-end-line="802" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q29.go">
+        <entry file="file://D:/Go/src/runtime/panic.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" selection-start-line="45" selection-end-line="51" selection-end-column="1" />
->>>>>>> 0c41e0c140723188c2dbfc6665527a653642a41b
+            <state relative-caret-position="129">
+              <caret line="689" selection-start-line="689" selection-end-line="689" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/Go/src/runtime/asm_amd64.s">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22729">
+              <caret line="1337" selection-start-line="1337" selection-end-line="1337" />
             </state>
           </provider>
         </entry>
@@ -161,19 +113,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>L</find>
-      <find>main</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-      <replace>src</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$/src</dir>
-    </dirStrings>
-  </component>
   <component name="GOROOT" path="D:\Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -184,84 +123,31 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
-=======
-        <option value="$PROJECT_DIR$/Q9.go" />
-        <option value="$PROJECT_DIR$/Q12.go" />
-        <option value="$PROJECT_DIR$/Q15.go" />
-        <option value="$PROJECT_DIR$/Q17.go" />
-        <option value="$PROJECT_DIR$/Q19.go" />
-        <option value="$PROJECT_DIR$/src/Q19.go" />
->>>>>>> 0c41e0c140723188c2dbfc6665527a653642a41b
-        <option value="$PROJECT_DIR$/src/Q21.go" />
-        <option value="$PROJECT_DIR$/src/Q29.go" />
-        <option value="$PROJECT_DIR$/src/Q30.go" />
-        <option value="$PROJECT_DIR$/src/test_Q697.go" />
-        <option value="$PROJECT_DIR$/src/Q697.go" />
-        <option value="$PROJECT_DIR$/src/Q697_test.go" />
-        <option value="$PROJECT_DIR$/src/Q852.go" />
-        <option value="$PROJECT_DIR$/src/Q557_test.go" />
-        <option value="$PROJECT_DIR$/src/Q557.go" />
-        <option value="$PROJECT_DIR$/src/Q53.go" />
-        <option value="$PROJECT_DIR$/src/Q58.go" />
-        <option value="$PROJECT_DIR$/src/Q69.go" />
-        <option value="$PROJECT_DIR$/src/Q1025.go" />
-        <option value="$PROJECT_DIR$/src/Q520.go" />
-        <option value="$PROJECT_DIR$/src/Q66.go" />
-        <option value="$PROJECT_DIR$/src/Q748.go" />
-        <option value="$PROJECT_DIR$/src/Q1030.go" />
-        <option value="$PROJECT_DIR$/src/Q1029.go" />
-        <option value="$PROJECT_DIR$/src/C504.go" />
-        <option value="$PROJECT_DIR$/src/Q504_test.go" />
-        <option value="$PROJECT_DIR$/src/Q504.go" />
-        <option value="$PROJECT_DIR$/src/Q830.go" />
-        <option value="$PROJECT_DIR$/src/Q830_test.go" />
-        <option value="$PROJECT_DIR$/src/Q231_test.go" />
-        <option value="$PROJECT_DIR$/src/Q231.go" />
-        <option value="$PROJECT_DIR$/src/Q198.go" />
-        <option value="$PROJECT_DIR$/src/Q198_test.go" />
-        <option value="$PROJECT_DIR$/src/A617.go" />
-        <option value="$PROJECT_DIR$/src/A705.go" />
-        <option value="$PROJECT_DIR$/src/A905.go" />
-        <option value="$PROJECT_DIR$/src/A922.go" />
-        <option value="$PROJECT_DIR$/src/A929.go" />
-        <option value="$PROJECT_DIR$/src/A942.go" />
-        <option value="$PROJECT_DIR$/src/A1013.go" />
-        <option value="$PROJECT_DIR$/src/p1.go" />
-        <option value="$PROJECT_DIR$/src/A611.go" />
-        <option value="$PROJECT_DIR$/src/A908.go" />
-        <option value="$PROJECT_DIR$/src/A852.go" />
-        <option value="$PROJECT_DIR$/src/Q394.go" />
-        <option value="$PROJECT_DIR$/src/A561.go" />
-        <option value="$PROJECT_DIR$/src/Q155.go" />
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/src/Q202.go" />
-        <option value="$PROJECT_DIR$/src/Q35.go" />
-        <option value="$PROJECT_DIR$/src/Q561.go" />
-        <option value="$PROJECT_DIR$/src/Q345.go" />
-        <option value="$PROJECT_DIR$/src/Q345_test.go" />
-        <option value="$PROJECT_DIR$/src/Q191.go" />
-        <option value="$PROJECT_DIR$/main.go" />
-        <option value="$PROJECT_DIR$/src/Q83_test.go" />
-        <option value="$PROJECT_DIR$/go.mod" />
-        <option value="$PROJECT_DIR$/src/Q83.go" />
+        <option value="$PROJECT_DIR$/src/Q205_test.go" />
+        <option value="$PROJECT_DIR$/src/Q205.go" />
+        <option value="$PROJECT_DIR$/src/Q463.go" />
+        <option value="$PROJECT_DIR$/src/Q151_test.go" />
+        <option value="$PROJECT_DIR$/src/Q151.go" />
+        <option value="$PROJECT_DIR$/src/Q54.go" />
+        <option value="$PROJECT_DIR$/src/Q432_test.go" />
+        <option value="$PROJECT_DIR$/src/Q432.go" />
+        <option value="$PROJECT_DIR$/src/Q172.go" />
+        <option value="$PROJECT_DIR$/src/Q172_test.go" />
+        <option value="$PROJECT_DIR$/src/Q380.go" />
+        <option value="$PROJECT_DIR$/src/Q152.go" />
+        <option value="$PROJECT_DIR$/src/Q152_test.go" />
+        <option value="$PROJECT_DIR$/src/Q1017.go" />
+        <option value="$PROJECT_DIR$/src/Q2.go" />
+        <option value="$PROJECT_DIR$/src/Q2_test.go" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-=======
-        <option value="$PROJECT_DIR$/src/Q409.go" />
-      </list>
-    </option>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="974" />
+    <option name="height" value="784" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
->>>>>>> 0c41e0c140723188c2dbfc6665527a653642a41b
-    <option name="x" value="39" />
-    <option name="y" value="23" />
-    <option name="width" value="1385" />
-    <option name="height" value="779" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -290,16 +176,15 @@
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -313,712 +198,325 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.Test_deleteDuplicates in Q83_test.go">
-    <configuration name="Test_deleteDuplicates in Q83_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <working_directory value="$PROJECT_DIR$/src" />
-      <framework value="gotest" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/src/Q83_test.go" />
-      <pattern value="^Test_deleteDuplicates$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Test_hammingWeight in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
+  <component name="RunManager" selected="Go Test.Test_addTwoNumbers in leetcode/src">
+    <configuration name="TestAllOne_GetMinKey in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="leetcode_go" />
       <working_directory value="$PROJECT_DIR$/src" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
       <package value="leetcode/src" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^Test_hammingWeight$" />
+      <pattern value="^TestAllOne_GetMinKey$" />
       <method v="2" />
     </configuration>
-    <configuration name="Test_isPowerOfTwo in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
+    <configuration name="Test_addTwoNumbers in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="leetcode_go" />
       <working_directory value="$PROJECT_DIR$/src" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
       <package value="leetcode/src" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^Test_isPowerOfTwo$" />
+      <pattern value="^Test_addTwoNumbers$" />
       <method v="2" />
     </configuration>
-    <configuration name="Test_reverseVowels in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
+    <configuration name="Test_maxProduct in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="leetcode_go" />
       <working_directory value="$PROJECT_DIR$/src" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
       <package value="leetcode/src" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^Test_reverseVowels$" />
+      <pattern value="^Test_maxProduct$" />
       <method v="2" />
     </configuration>
-    <configuration name="Test_rob in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
+    <configuration name="Test_reverseWords in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="leetcode_go" />
       <working_directory value="$PROJECT_DIR$/src" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
       <package value="leetcode/src" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^Test_rob$" />
+      <pattern value="^Test_reverseWords$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_trailingZeroes in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="leetcode_go" />
+      <working_directory value="$PROJECT_DIR$/src" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="leetcode/src" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Test_trailingZeroes$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.Test_deleteDuplicates in Q83_test.go" />
-        <item itemvalue="Go Test.Test_hammingWeight in leetcode/src" />
-        <item itemvalue="Go Test.Test_reverseVowels in leetcode/src" />
-        <item itemvalue="Go Test.Test_rob in leetcode/src" />
-        <item itemvalue="Go Test.Test_isPowerOfTwo in leetcode/src" />
+        <item itemvalue="Go Test.Test_addTwoNumbers in leetcode/src" />
+        <item itemvalue="Go Test.Test_maxProduct in leetcode/src" />
+        <item itemvalue="Go Test.Test_trailingZeroes in leetcode/src" />
+        <item itemvalue="Go Test.TestAllOne_GetMinKey in leetcode/src" />
+        <item itemvalue="Go Test.Test_reverseWords in leetcode/src" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="Test_rob_in_leetcode_src - 2019.05.23 at 20h 33m 03s.xml">
-      <configuration name="Test_rob in leetcode/src" configurationId="GoTestRunConfiguration" />
+    <history-entry file="Test_addTwoNumbers_in_leetcode_src - 2019.07.06 at 15h 19m 54s.xml">
+      <configuration name="Test_addTwoNumbers in leetcode/src" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="Test_reverseVowels_in_leetcode_src - 2019.05.23 at 20h 33m 46s.xml">
-      <configuration name="Test_reverseVowels in leetcode/src" configurationId="GoTestRunConfiguration" />
+    <history-entry file="Test_addTwoNumbers_in_leetcode_src - 2019.07.06 at 15h 20m 03s.xml">
+      <configuration name="Test_addTwoNumbers in leetcode/src" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="Test_reverseVowels_in_leetcode_src - 2019.05.23 at 20h 34m 33s.xml">
-      <configuration name="Test_reverseVowels in leetcode/src" configurationId="GoTestRunConfiguration" />
+    <history-entry file="Test_addTwoNumbers_in_leetcode_src - 2019.07.06 at 15h 21m 21s.xml">
+      <configuration name="Test_addTwoNumbers in leetcode/src" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="Test_reverseVowels_in_leetcode_src - 2019.05.23 at 20h 35m 32s.xml">
-      <configuration name="Test_reverseVowels in leetcode/src" configurationId="GoTestRunConfiguration" />
+    <history-entry file="Test_addTwoNumbers_in_leetcode_src - 2019.07.06 at 15h 22m 49s.xml">
+      <configuration name="Test_addTwoNumbers in leetcode/src" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="Test_reverseVowels_in_leetcode_src - 2019.05.23 at 20h 36m 09s.xml">
-      <configuration name="Test_reverseVowels in leetcode/src" configurationId="GoTestRunConfiguration" />
+    <history-entry file="Test_addTwoNumbers_in_leetcode_src - 2019.07.06 at 15h 23m 17s.xml">
+      <configuration name="Test_addTwoNumbers in leetcode/src" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="Test_reverseVowels_in_leetcode_src - 2019.05.23 at 20h 36m 20s.xml">
-      <configuration name="Test_reverseVowels in leetcode/src" configurationId="GoTestRunConfiguration" />
+    <history-entry file="Test_addTwoNumbers_in_leetcode_src - 2019.07.06 at 15h 23m 33s.xml">
+      <configuration name="Test_addTwoNumbers in leetcode/src" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="Test_reverseVowels_in_leetcode_src - 2019.05.23 at 20h 36m 56s.xml">
-      <configuration name="Test_reverseVowels in leetcode/src" configurationId="GoTestRunConfiguration" />
+    <history-entry file="Test_addTwoNumbers_in_leetcode_src - 2019.07.06 at 15h 24m 50s.xml">
+      <configuration name="Test_addTwoNumbers in leetcode/src" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="Test_deleteDuplicates_in_Q83_test_go - 2019.05.27 at 21h 17m 41s.xml">
-      <configuration name="Test_deleteDuplicates in Q83_test.go" configurationId="GoTestRunConfiguration" />
+    <history-entry file="Test_addTwoNumbers_in_leetcode_src - 2019.07.06 at 15h 26m 12s.xml">
+      <configuration name="Test_addTwoNumbers in leetcode/src" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="Test_deleteDuplicates_in_Q83_test_go - 2019.05.27 at 21h 18m 21s.xml">
-      <configuration name="Test_deleteDuplicates in Q83_test.go" configurationId="GoTestRunConfiguration" />
+    <history-entry file="Test_addTwoNumbers_in_leetcode_src - 2019.07.06 at 15h 27m 27s.xml">
+      <configuration name="Test_addTwoNumbers in leetcode/src" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="Test_deleteDuplicates_in_Q83_test_go - 2019.05.27 at 21h 19m 52s.xml">
-      <configuration name="Test_deleteDuplicates in Q83_test.go" configurationId="GoTestRunConfiguration" />
+    <history-entry file="Test_addTwoNumbers_in_leetcode_src - 2019.07.06 at 15h 28m 43s.xml">
+      <configuration name="Test_addTwoNumbers in leetcode/src" configurationId="GoTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-<<<<<<< HEAD
-    <frame x="39" y="23" width="1385" height="779" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34623978" />
-=======
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23773988" />
->>>>>>> 0c41e0c140723188c2dbfc6665527a653642a41b
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23146667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49702382" weight="0.4352256" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4985119" visible="true" weight="0.30567685" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.13557483" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.56290674" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49851632" weight="0.32896653" />
-=======
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49851632" visible="true" weight="0.3286334" />
->>>>>>> 0c41e0c140723188c2dbfc6665527a653642a41b
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5029762" side_tool="true" weight="0.32751092" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" sideWeight="0.498452" weight="0.3296131" />
-      <window_info anchor="right" id="Coverage" order="4" sideWeight="0.501548" side_tool="true" weight="0.3296131" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32932165" />
+      <window_info anchor="right" id="Key Promoter X" order="4" weight="0.32932165" />
+      <window_info anchor="right" id="Coverage" order="5" show_stripe_button="false" side_tool="true" weight="0.32932165" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32241252" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49702382" visible="true" weight="0.32751092" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985119" weight="0.5138282" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49851632" weight="0.32896653" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5029762" side_tool="true" weight="0.32751092" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" sideWeight="0.498452" weight="0.3296131" />
-      <window_info anchor="right" id="Coverage" order="4" sideWeight="0.501548" side_tool="true" weight="0.3296131" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
-    <proxy>direct</proxy>
+    <proxy>https://goproxy.io</proxy>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q8.go</url>
-          <line>30</line>
+          <url>file://$PROJECT_DIR$/src/Q205.go</url>
+          <line>3</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q8.go</url>
-          <line>9</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q9.go</url>
-          <line>16</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q12.go</url>
-          <line>9</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q15.go</url>
-          <line>5</line>
+          <url>file://$PROJECT_DIR$/src/Q151.go</url>
+          <line>15</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q17.go</url>
-          <line>14</line>
+          <url>file://$PROJECT_DIR$/src/Q432_not_complete_test.go</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/Q432_not_complete.go</url>
+          <line>25</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q19.go</url>
-          <line>18</line>
-          <option name="timeStamp" value="25" />
+          <url>file://$PROJECT_DIR$/src/Q2.go</url>
+          <line>41</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q21.go</url>
-          <line>12</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q21.go</url>
-          <line>46</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q29.go</url>
-          <line>5</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q30.go</url>
-          <line>6</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q697.go</url>
-          <line>31</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q852.go</url>
-          <line>35</line>
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q557.go</url>
-          <line>8</line>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q557.go</url>
-          <line>32</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q1030.go</url>
-          <line>19</line>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q1029.go</url>
-          <line>27</line>
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q1029.go</url>
-          <line>5</line>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q1029.go</url>
-          <line>16</line>
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q1029.go</url>
-          <line>49</line>
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q504_test.go</url>
-          <line>53</line>
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q504.go</url>
-          <line>16</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q504.go</url>
-          <line>37</line>
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q830.go</url>
-          <line>13</line>
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q231.go</url>
-          <line>7</line>
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q198.go</url>
-          <line>3</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q942.go</url>
-          <line>1</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q345.go</url>
-          <line>5</line>
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/Q83.go</url>
-          <line>3</line>
+          <url>file://$PROJECT_DIR$/src/Q2.go</url>
+          <line>10</line>
           <properties />
-          <option name="timeStamp" value="62" />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/Q2.go</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GoTestRunConfiguration">
+        <watch expression="*(*&quot;leetcode/src.ListNode&quot;)(824634000784)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode_go$Test_maxProduct_in_leetcode_src.out" NAME="Test_maxProduct in leetcode/src Coverage Results" MODIFIED="1561971738188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
-=======
-    <entry file="file://$PROJECT_DIR$/src/Q697_test.go">
+    <entry file="file://$PROJECT_DIR$/src/Q463.go" />
+    <entry file="file://$PROJECT_DIR$/src/Q205.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="42" column="5" selection-start-line="38" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
+        <state relative-caret-position="439">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q557.go">
+    <entry file="file://$PROJECT_DIR$/src/Q205_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        <state relative-caret-position="17">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q54.go" />
+    <entry file="file://$PROJECT_DIR$/src/Q151_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q172_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q432_not_complete_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
-            <element signature="e#13#43#0" expanded="true" />
+            <element signature="e#13#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q53.go">
+    <entry file="file://$PROJECT_DIR$/src/Q152_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="425">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q58.go">
+    <entry file="file://D:/Go/src/builtin/builtin.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" selection-start-line="6" selection-end-line="16" />
+        <state relative-caret-position="525">
+          <caret line="157" column="8" selection-start-line="157" selection-start-column="5" selection-end-line="157" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/c.out" />
-    <entry file="file://$PROJECT_DIR$/src/Q30.go">
+    <entry file="file://$PROJECT_DIR$/src/Q380.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="510">
+          <caret line="39" column="3" selection-start-line="28" selection-start-column="2" selection-end-line="39" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q69.go">
+    <entry file="file://$PROJECT_DIR$/src/Q172.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="374">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q1025.go" />
-    <entry file="file://$PROJECT_DIR$/src/Q520.go">
+    <entry file="file://$PROJECT_DIR$/src/Q432_not_complete.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        <state relative-caret-position="17">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
->>>>>>> 0c41e0c140723188c2dbfc6665527a653642a41b
-    <entry file="file://$PROJECT_DIR$/src/Q66.go">
+    <entry file="file://$PROJECT_DIR$/src/Q151.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q748.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="64" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file:///usr/local/go/src/io/io.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1305">
-          <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-=======
-    <entry file="file://$PROJECT_DIR$/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/io/io.go" />
->>>>>>> 0c41e0c140723188c2dbfc6665527a653642a41b
-    <entry file="file://$PROJECT_DIR$/src/Q1029.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q1030.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="33" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/strings/strings.go" />
-    <entry file="file:///usr/local/go/src/sort/slice.go" />
-    <entry file="file:///usr/local/go/src/runtime/panic.go" />
-    <entry file="file:///usr/local/go/src/strconv/itoa.go" />
-    <entry file="file:///usr/local/go/src/testing/testing.go" />
-    <entry file="file:///usr/local/go/src/runtime/asm_amd64.s" />
-    <entry file="file://$PROJECT_DIR$/src/Q504_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="46" column="19" lean-forward="true" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
-          <folding>
-            <element signature="e#13#45#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Q504.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-340">
-          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="39" />
+        <state relative-caret-position="68">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q830.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q231.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q198_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q231_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="20" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q830_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q29.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" selection-start-line="45" selection-end-line="51" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-=======
-    <entry file="file://$PROJECT_DIR$/src/Q198.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
->>>>>>> 0c41e0c140723188c2dbfc6665527a653642a41b
-    <entry file="file://$PROJECT_DIR$/src/Q922.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q611.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/q617.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q705.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q905.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q908.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q929.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#13#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q942.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q1013.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q8.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q9.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q14.go" />
-    <entry file="file://$PROJECT_DIR$/src/Q12.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q15.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A852.go" />
-    <entry file="file://$PROJECT_DIR$/src/Q202.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q35.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q561.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q155.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q191.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q17.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q19.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q198.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q21.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q191_test.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q1.go">
-=======
-    <entry file="file://$PROJECT_DIR$/src/A852.go" />
-    <entry file="file://$PROJECT_DIR$/src/Q1.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q409.go">
->>>>>>> 0c41e0c140723188c2dbfc6665527a653642a41b
+    <entry file="file://$PROJECT_DIR$/src/Q152.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="26" selection-end-column="1" />
+          <caret line="2" selection-start-line="2" selection-end-line="30" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q345_test.go">
+    <entry file="file://D:/Go/src/runtime/asm_amd64.s">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        <state relative-caret-position="22729">
+          <caret line="1337" selection-start-line="1337" selection-end-line="1337" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q345.go">
+    <entry file="file://D:/Go/src/testing/testing.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        <state relative-caret-position="121">
+          <caret line="802" selection-start-line="802" selection-end-line="802" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q83_test.go">
+    <entry file="file://D:/Go/src/runtime/panic.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        <state relative-caret-position="129">
+          <caret line="689" selection-start-line="689" selection-end-line="689" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/go.mod">
+    <entry file="file://$PROJECT_DIR$/src/Q1017.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="51">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q83.go">
+    <entry file="file://$PROJECT_DIR$/src/Q2_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="21" selection-end-column="16" />
+        <state relative-caret-position="1071">
+          <caret line="93" column="12" lean-forward="true" selection-start-line="56" selection-start-column="10" selection-end-line="93" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="42" column="1" lean-forward="true" selection-start-line="9" selection-end-line="42" selection-end-column="1" />
         </state>
       </provider>
     </entry>
