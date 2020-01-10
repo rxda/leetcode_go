@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57d1854a-159c-456f-a4a3-02ef837f8bb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Q1155.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1155_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1165.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1166.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1166_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1167.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1169.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q169.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q169_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q240.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q874.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q874_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/1041.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/1041_test.go" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +47,11 @@
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1Pe6PTniOBNUge7mytrb7SPHKH4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -56,33 +63,18 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Go Test.Test_numRollsToTarget in leetcode/src">
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="leetcode_go" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/main.go" />
-      <package value="leetcode" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Test_addTwoNumbers in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.Test_robotSim in leetcode/src">
+    <configuration name="TestFileSystem in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="leetcode_go" />
       <working_directory value="$PROJECT_DIR$/src" />
       <framework value="gotest" />
@@ -90,7 +82,7 @@
       <package value="leetcode/src" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^Test_addTwoNumbers$" />
+      <pattern value="^TestFileSystem$" />
       <method v="2" />
     </configuration>
     <configuration name="Test_inorderTraversal in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -104,7 +96,7 @@
       <pattern value="^Test_inorderTraversal$" />
       <method v="2" />
     </configuration>
-    <configuration name="Test_maxProduct in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="Test_majorityElement in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="leetcode_go" />
       <working_directory value="$PROJECT_DIR$/src" />
       <framework value="gotest" />
@@ -112,7 +104,7 @@
       <package value="leetcode/src" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^Test_maxProduct$" />
+      <pattern value="^Test_majorityElement$" />
       <method v="2" />
     </configuration>
     <configuration name="Test_numRollsToTarget in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -126,15 +118,38 @@
       <pattern value="^Test_numRollsToTarget$" />
       <method v="2" />
     </configuration>
+    <configuration name="Test_robotSim in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="leetcode_go" />
+      <working_directory value="$PROJECT_DIR$/src" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="leetcode/src" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Test_robotSim$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.Test_robotSim in leetcode/src" />
+        <item itemvalue="Go Test.Test_majorityElement in leetcode/src" />
+        <item itemvalue="Go Test.TestFileSystem in leetcode/src" />
         <item itemvalue="Go Test.Test_numRollsToTarget in leetcode/src" />
         <item itemvalue="Go Test.Test_inorderTraversal in leetcode/src" />
-        <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Test.Test_addTwoNumbers in leetcode/src" />
-        <item itemvalue="Go Test.Test_maxProduct in leetcode/src" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -155,6 +170,40 @@
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
     <proxy>https://goproxy.io</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="123" key="GridCell.Tab.0.bottom" timestamp="1578531159569">
+      <screen x="0" y="23" width="1440" height="755" />
+    </state>
+    <state width="1398" height="123" key="GridCell.Tab.0.bottom/0.23.1440.755/1440.23.1424.779@0.23.1440.755" timestamp="1578531159569" />
+    <state width="1398" height="123" key="GridCell.Tab.0.center" timestamp="1578531159567">
+      <screen x="0" y="23" width="1440" height="755" />
+    </state>
+    <state width="1398" height="123" key="GridCell.Tab.0.center/0.23.1440.755/1440.23.1424.779@0.23.1440.755" timestamp="1578531159567" />
+    <state width="1398" height="123" key="GridCell.Tab.0.left" timestamp="1578531159567">
+      <screen x="0" y="23" width="1440" height="755" />
+    </state>
+    <state width="1398" height="123" key="GridCell.Tab.0.left/0.23.1440.755/1440.23.1424.779@0.23.1440.755" timestamp="1578531159567" />
+    <state width="1398" height="123" key="GridCell.Tab.0.right" timestamp="1578531159568">
+      <screen x="0" y="23" width="1440" height="755" />
+    </state>
+    <state width="1398" height="123" key="GridCell.Tab.0.right/0.23.1440.755/1440.23.1424.779@0.23.1440.755" timestamp="1578531159568" />
+    <state width="1398" height="123" key="GridCell.Tab.1.bottom" timestamp="1578531159570">
+      <screen x="0" y="23" width="1440" height="755" />
+    </state>
+    <state width="1398" height="123" key="GridCell.Tab.1.bottom/0.23.1440.755/1440.23.1424.779@0.23.1440.755" timestamp="1578531159570" />
+    <state width="1398" height="123" key="GridCell.Tab.1.center" timestamp="1578531159569">
+      <screen x="0" y="23" width="1440" height="755" />
+    </state>
+    <state width="1398" height="123" key="GridCell.Tab.1.center/0.23.1440.755/1440.23.1424.779@0.23.1440.755" timestamp="1578531159569" />
+    <state width="1398" height="123" key="GridCell.Tab.1.left" timestamp="1578531159569">
+      <screen x="0" y="23" width="1440" height="755" />
+    </state>
+    <state width="1398" height="123" key="GridCell.Tab.1.left/0.23.1440.755/1440.23.1424.779@0.23.1440.755" timestamp="1578531159569" />
+    <state width="1398" height="123" key="GridCell.Tab.1.right" timestamp="1578531159569">
+      <screen x="0" y="23" width="1440" height="755" />
+    </state>
+    <state width="1398" height="123" key="GridCell.Tab.1.right/0.23.1440.755/1440.23.1424.779@0.23.1440.755" timestamp="1578531159569" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -198,6 +247,31 @@
           <url>file://$PROJECT_DIR$/src/Q1155.go</url>
           <line>3</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/Q1166_test.go</url>
+          <line>11</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/Q1166_test.go</url>
+          <line>9</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/Q1166_test.go</url>
+          <line>8</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/Q169.go</url>
+          <line>4</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/Q874.go</url>
+          <line>6</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
