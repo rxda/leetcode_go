@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57d1854a-159c-456f-a4a3-02ef837f8bb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Q200.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q200_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1672.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1672_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q82.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q82_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +38,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
@@ -46,6 +51,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
@@ -65,17 +71,8 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Go Test.Test_numIslands in leetcode/src">
-    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
-      <module name="leetcode_go" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestFileSystem in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.Test_maximumWealth in leetcode/src">
+    <configuration name="Test_createList in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="leetcode_go" />
       <working_directory value="$PROJECT_DIR$/src" />
       <framework value="gotest" />
@@ -83,10 +80,10 @@
       <package value="leetcode/src" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestFileSystem$" />
+      <pattern value="^Test_createList$" />
       <method v="2" />
     </configuration>
-    <configuration name="Test_majorityElement in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="Test_deleteDuplicates2 in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="leetcode_go" />
       <working_directory value="$PROJECT_DIR$/src" />
       <framework value="gotest" />
@@ -94,7 +91,18 @@
       <package value="leetcode/src" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^Test_majorityElement$" />
+      <pattern value="^Test_deleteDuplicates2$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_maximumWealth in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="leetcode_go" />
+      <working_directory value="$PROJECT_DIR$/src" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="leetcode/src" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTest_maximumWealth\E$" />
       <method v="2" />
     </configuration>
     <configuration name="Test_numIslands in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -108,17 +116,6 @@
       <pattern value="^Test_numIslands$" />
       <method v="2" />
     </configuration>
-    <configuration name="Test_robotSim in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="leetcode_go" />
-      <working_directory value="$PROJECT_DIR$/src" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="leetcode/src" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^Test_robotSim$" />
-      <method v="2" />
-    </configuration>
     <configuration name="Test_testA in leetcode/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="leetcode_go" />
       <working_directory value="$PROJECT_DIR$/src" />
@@ -130,28 +127,19 @@
       <pattern value="^Test_testA$" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
-      <module name="leetcode_go" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <framework value="gotest" />
-      <kind value="DIRECTORY" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.Test_maximumWealth in leetcode/src" />
+        <item itemvalue="Go Test.Test_deleteDuplicates2 in leetcode/src" />
+        <item itemvalue="Go Test.Test_createList in leetcode/src" />
         <item itemvalue="Go Test.Test_numIslands in leetcode/src" />
         <item itemvalue="Go Test.Test_testA in leetcode/src" />
-        <item itemvalue="Go Test.Test_robotSim in leetcode/src" />
-        <item itemvalue="Go Test.Test_majorityElement in leetcode/src" />
-        <item itemvalue="Go Test.TestFileSystem in leetcode/src" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -175,46 +163,22 @@
     <proxy>https://goproxy.io</proxy>
   </component>
   <component name="WindowStateProjectService">
-    <state width="474" height="438" key="DebuggerActiveHint" timestamp="1590241279234">
-      <screen x="0" y="23" width="1424" height="747" />
+    <state width="1878" height="287" key="GridCell.Tab.0.bottom" timestamp="1606659360334">
+      <screen x="0" y="25" width="1920" height="1055" />
     </state>
-    <state width="474" height="438" key="DebuggerActiveHint/0.23.1424.747@0.23.1424.747" timestamp="1590241279234" />
-    <state width="1382" height="158" key="GridCell.Tab.0.bottom" timestamp="1590242978348">
-      <screen x="0" y="23" width="1424" height="747" />
+    <state width="1878" height="287" key="GridCell.Tab.0.bottom/0.25.1920.1055/1920.25.1424.777@0.25.1920.1055" timestamp="1606659360334" />
+    <state width="1878" height="287" key="GridCell.Tab.0.center" timestamp="1606659360334">
+      <screen x="0" y="25" width="1920" height="1055" />
     </state>
-    <state width="1382" height="158" key="GridCell.Tab.0.bottom/0.23.1424.747@0.23.1424.747" timestamp="1590242978348" />
-    <state width="1382" height="158" key="GridCell.Tab.0.center" timestamp="1590242978346">
-      <screen x="0" y="23" width="1424" height="747" />
+    <state width="1878" height="287" key="GridCell.Tab.0.center/0.25.1920.1055/1920.25.1424.777@0.25.1920.1055" timestamp="1606659360334" />
+    <state width="1878" height="287" key="GridCell.Tab.0.left" timestamp="1606659360333">
+      <screen x="0" y="25" width="1920" height="1055" />
     </state>
-    <state width="1382" height="158" key="GridCell.Tab.0.center/0.23.1424.747@0.23.1424.747" timestamp="1590242978346" />
-    <state width="1382" height="158" key="GridCell.Tab.0.left" timestamp="1590242978345">
-      <screen x="0" y="23" width="1424" height="747" />
+    <state width="1878" height="287" key="GridCell.Tab.0.left/0.25.1920.1055/1920.25.1424.777@0.25.1920.1055" timestamp="1606659360333" />
+    <state width="1878" height="287" key="GridCell.Tab.0.right" timestamp="1606659360334">
+      <screen x="0" y="25" width="1920" height="1055" />
     </state>
-    <state width="1382" height="158" key="GridCell.Tab.0.left/0.23.1424.747@0.23.1424.747" timestamp="1590242978345" />
-    <state width="1382" height="158" key="GridCell.Tab.0.right" timestamp="1590242978346">
-      <screen x="0" y="23" width="1424" height="747" />
-    </state>
-    <state width="1382" height="158" key="GridCell.Tab.0.right/0.23.1424.747@0.23.1424.747" timestamp="1590242978346" />
-    <state width="1382" height="158" key="GridCell.Tab.1.bottom" timestamp="1590242978736">
-      <screen x="0" y="23" width="1424" height="747" />
-    </state>
-    <state width="1382" height="158" key="GridCell.Tab.1.bottom/0.23.1424.747@0.23.1424.747" timestamp="1590242978736" />
-    <state width="1382" height="158" key="GridCell.Tab.1.center" timestamp="1590242978735">
-      <screen x="0" y="23" width="1424" height="747" />
-    </state>
-    <state width="1382" height="158" key="GridCell.Tab.1.center/0.23.1424.747@0.23.1424.747" timestamp="1590242978735" />
-    <state width="1382" height="158" key="GridCell.Tab.1.left" timestamp="1590242978734">
-      <screen x="0" y="23" width="1424" height="747" />
-    </state>
-    <state width="1382" height="158" key="GridCell.Tab.1.left/0.23.1424.747@0.23.1424.747" timestamp="1590242978734" />
-    <state width="1382" height="158" key="GridCell.Tab.1.right" timestamp="1590242978736">
-      <screen x="0" y="23" width="1424" height="747" />
-    </state>
-    <state width="1382" height="158" key="GridCell.Tab.1.right/0.23.1424.747@0.23.1424.747" timestamp="1590242978736" />
-    <state width="692" height="335" key="XDebugger.FullValuePopup" timestamp="1590241625264">
-      <screen x="0" y="23" width="1424" height="747" />
-    </state>
-    <state width="692" height="335" key="XDebugger.FullValuePopup/0.23.1424.747@0.23.1424.747" timestamp="1590241625264" />
+    <state width="1878" height="287" key="GridCell.Tab.0.right/0.25.1920.1055/1920.25.1424.777@0.25.1920.1055" timestamp="1606659360334" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -299,13 +263,23 @@
           <line>7</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/Q82.go</url>
+          <line>13</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/Q82.go</url>
+          <line>33</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/Q82_test.go</url>
+          <line>35</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="GoTestRunConfiguration">
-        <watch expression="*(*&quot;leetcode/src.ListNode&quot;)(824634000784)" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode_go$Test_maxProduct_in_leetcode_src.out" NAME="Test_maxProduct in leetcode/src Coverage Results" MODIFIED="1561971738188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
